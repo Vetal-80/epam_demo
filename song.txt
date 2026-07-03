@@ -8,3 +8,5 @@ on this
 Some content
 
 Some new content + NEW content
+
+!!! Text added in GitHub !!!
